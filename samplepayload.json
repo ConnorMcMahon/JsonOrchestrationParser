@@ -1,0 +1,20 @@
+[
+    {
+        "name": "AllOf",
+        "actions": [
+            {
+                "name": "InternalAction",
+                "payload": ""
+            },
+            {
+                "name": "ExternalApi",
+                "uri": "https://google.com",
+                "method": "GET"
+            }
+        ]
+    },
+    {
+        "name": "InternalAction",
+        "payload": ""
+    }
+]
